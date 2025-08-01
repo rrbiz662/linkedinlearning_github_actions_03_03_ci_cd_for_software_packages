@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <url>https://maven.pkg.github.com/rrbiz662/linkedinlearning_github_actions_03_03_ci_cd_for_software_packages</url>
 
     </repository>
   </distributionManagement>
